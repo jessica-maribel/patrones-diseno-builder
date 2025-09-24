@@ -1,6 +1,6 @@
 // EndPoins
-const API_LISTAR = "api/vehiculos/list.php";
-const API_CREAR = "api/vehiculos/create.php";
+const API_LISTAR = "http://localhost/patrones-diseno-builder/api/inventario/listarInventario.php";
+const API_CREAR = "http://localhost/patrones-diseno-builder/api/inventario/crearInventario.php";
 
 let inventario = [];
 
